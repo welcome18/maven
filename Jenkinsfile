@@ -1,5 +1,5 @@
 def workspace;
-node 
+node ('Ec2')
   {
       stage('checkout')
       {
